@@ -1,5 +1,4 @@
 
 
-![Alt text](https://www.draw.io/#G0B5plwhvwcDbLWW5hQUFFYlZacm8 "model")
-
+![Alt text](C:\Users\Brent Parrish\Desktop\codefellows\BJGD\ "Black jack game model")
 
