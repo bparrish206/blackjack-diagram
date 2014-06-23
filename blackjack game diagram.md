@@ -1,4 +1,4 @@
 
 
-![Blackjack Game Diagram](file:///C:\Users\Brent Parrish\Desktop\codefellows)
+![Blackjack Game Diagram](C:\Users\Brent Parrish\Desktop\codefellows)
 
