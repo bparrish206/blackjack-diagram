@@ -1,4 +1,4 @@
 
 
-![Blackjack Game Diagram](C:\Users\Brent Parrish\Desktop\codefellows\BJGD.jpg)
+![Blackjack Game Diagram](https://www.draw.io/#G0B5plwhvwcDbLWW5hQUFFYlZacm8)
 
